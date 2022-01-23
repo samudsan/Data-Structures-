@@ -11,7 +11,6 @@ public class _2_IsArraySorted {
             System.out.println("Array is Not sorted");
     }
 
-
     public static int isSorted(int [] arr, int n){
         if(n==1 || n==0)
             return 1;
