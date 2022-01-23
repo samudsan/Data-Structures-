@@ -8,7 +8,7 @@ public class _2_IsArraySorted {
         if(isSorted(arr,n) != 0)
             System.out.println("Array is sorted");
         else
-            System.out.println("Array is Not sorted");
+            System.out.println("Array Not sorted");
     }
 
     public static int isSorted(int [] arr, int n){
